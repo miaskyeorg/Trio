@@ -103,3 +103,5 @@ Trio is a collaborative project. We always welcome fellow enthusiasts who can co
 If you want to contribute to the development of Trio, please reach out on Discord or Facebook.
 
 For questions or contributions, please join our [Discord server](https://discord.triodocs.org).
+
+
